@@ -1,3 +1,4 @@
+```vbscript
 Sub stock_data_calculations()
 
 'Variable declarations
