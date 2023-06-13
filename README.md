@@ -41,7 +41,7 @@ Use VBA Script on Excel files with Columns containing:
 
 ## Screenshot
 
-![Screen Shot 2023-06-13 at 12.36.25 pm](/Users/samuelpalframan/Desktop/Screen Shot 2023-06-13 at 12.36.25 pm.png)
+![screenshot](https://github.com/PianoPalf/VBA-challenge/assets/119825935/61136f19-5748-4c53-9dc3-1100a508269b)
 
 LEFT - Input 		/ 		MIDDLE - Output (Yearly Change, Percent Change, Total Stock Volume)		/		RIGHT - Output (Summary Table)
 
