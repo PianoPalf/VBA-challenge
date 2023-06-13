@@ -1,4 +1,4 @@
-# Stock Data Calculations/Summaries - VBA Script
+# Stock Data Calculations and Summaries - VBA Script
 
 Simple script for calculating and summarising Stock Data in Excel using VBA to loop through each row by Ticker.
 
